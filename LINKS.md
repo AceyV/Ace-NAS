@@ -3,7 +3,7 @@
 
 ## Bundle
 
-CPU: <a href="https://www.kaufland.de/product/345155447/?msclkid=fd30af5ad5401f1b42e0cea60dc714c0&utm_source=bing&utm_medium=cpc&utm_campaign=SC_SSC_items_highPrice&utm_term=4583382954876103&utm_content=SCC_highPrice">i3 2120</a>
+CPU: <a href="https://www.intel.de/content/www/de/de/products/sku/53446/intel-core-i52320-processor-6m-cache-up-to-3-30-ghz/specifications.html">i3 2120</a>
 
 Mainboard: <a href="https://computerstoreberlin.de/Acer-Q65H2-AM-V11-Intel-Q65-Mainboard-Micro-ATX-Sockel-1155-127377">Acer Q65h2-AM</a>
 
