@@ -9,6 +9,5 @@ Die verbaute Hardware ist ein Intel I5 2250 mit 4 Kernen / 4 Threads auf 3.3GHz 
 Die Verbauten Festplatten ist eine intenso 120gb SSD(Für Betriebssysteme), 1 500GB WD Blue HDD, 1 640GB WD Caviar HDD.
 
 ## Software
-Auf der NAS läuft Windows Server 2019(ich weiß dass es TrueNas gibt aber es geht nur Windows auf dem PC). VMs(Virtuelle Maschienen) werden über Virtual Box gemanaged. Die VMs sind auf einer 100GB Partition auf der 640GB HDD
-
+Auf der Nas läuft Proxmox mit AdGuard und co.
         
